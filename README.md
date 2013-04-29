@@ -1,8 +1,10 @@
 # EaSportsPpi
 
-TODO: Write a gem description
+show EA SPORTS PLAYER PERFORMANCE INDEX(http://www.premierleague.com/en-gb/players/ea-sports-player-performance-index.html)
 
 ## Installation
+* Install it: `gem install ea_sports_ppi`
+* Run it (from terminal): `ea_sports_ppi`
 
 Add this line to your application's Gemfile:
 
