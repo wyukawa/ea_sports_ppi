@@ -1,2 +1,2 @@
-requrite 'ea_sports_ppi'
+require 'ea_sports_ppi'
 EaSportsPpi.run
