@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = EaSportsPpi::VERSION
   spec.authors       = ["wyukawa"]
   spec.email         = ["wyukawa@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{show EA SPORTS PLAYER PERFORMANCE INDEX}
+  spec.summary       = %q{show EA SPORTS PLAYER PERFORMANCE INDEX}
   spec.homepage      = ""
   spec.license       = "MIT"
 
