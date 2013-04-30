@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["wyukawa@gmail.com"]
   spec.description   = %q{show EA SPORTS PLAYER PERFORMANCE INDEX}
   spec.summary       = %q{show EA SPORTS PLAYER PERFORMANCE INDEX}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/wyukawa/ea_sports_ppi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
